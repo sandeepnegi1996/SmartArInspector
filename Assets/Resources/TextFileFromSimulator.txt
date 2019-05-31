@@ -1,0 +1,1 @@
+{"deviceId":"M101","name":"Throttler","temperature":95,"humidity":160,"load":60,"pressure":20,"date":"11 April 2019 11:30:56"}
